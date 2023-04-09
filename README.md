@@ -7,11 +7,11 @@ To run this project, follow these steps:
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/[username]/[repository-name].git
+git clone https://github.com/mcgodimoz/place-finder-googlemaps
 ```
 2. Navigate into the project directory:
 ```sh
-cd [repository-name]
+cd place-finder-googlemaps
 ```
 3. Install the required dependencies:
 ```sh
